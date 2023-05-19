@@ -1,16 +1,4 @@
-# Smoothly Animated ToDo App built with React Native
 
-![Thumbnail](./doc/thumb.jpg)
-
-Try the demo on [![Expo Go](./doc/expo-logo.svg)](https://expo.dev/@craftzdog/animated-todo)
-
-The animated checkbox component has been published as [an NPM module `react-native-checkbox-reanimated`](https://github.com/craftzdog/react-native-checkbox-reanimated).
-
-![demo](./doc/checkbox.gif)
-
-## Tutorial
-
-Watch how I built this website on YouTube: [<img src="./doc/youtube.png" width="32" />](https://youtu.be/k2h7usLLBhY)
 
 ## Stack
 
@@ -22,17 +10,6 @@ Watch how I built this website on YouTube: [<img src="./doc/youtube.png" width="
 - [React Native SVG](https://github.com/react-native-svg/react-native-svg) - Drawing SVG
 - [Moti](https://moti.fyi/) - Helper module for Reanimated 2
 
-## Project structure
-
-```
-$PROJECT_ROOT
-├── App.tsx        # Entry point
-└── src
-    ├── screens    # Screen components
-    ├── components # UI components
-    ├── utils      # Custom hooks and helpers
-    └── assets     # Image files
-```
 
 ## Credits
 
